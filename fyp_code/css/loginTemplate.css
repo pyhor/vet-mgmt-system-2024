@@ -1,0 +1,168 @@
+/* Base styles with paw cursor */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'><text y='28' font-size='24'>🐾</text></svg>"), auto;
+}
+
+body {
+    font-family: Itim, cursive;
+    background-color: #5b6e54;
+    height: 17cm;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-image: linear-gradient(
+        #ffffff49,
+        #ffffff49
+    ), url("../images/download2.png");
+    background-size: cover;
+    background-position: 0 -3cm;
+    background-attachment: fixed;
+    overflow: hidden;
+    color: #896541;
+}
+
+.login-container {
+    flex: 1;
+    max-width: 500px;
+    margin: 50px 0 10px 700px;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(91, 110, 84, 0.1);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Form styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    padding: 12px;
+    border: 2px solid #896541;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+    background-color: #d0b79f6e;
+    margin-bottom: 20px;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus {
+    border-color: #896541;
+    outline: none;
+    box-shadow: 0 4px 12px rgba(91, 110, 84, 0.2);
+    background-color: #e8ccb2ba;
+}
+
+button, 
+input[type="submit"] {
+    background-color: #C29A71;
+    color: white;
+    padding: 12px 0;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:20px;
+    margin-bottom: -10px;
+}
+
+button:hover, 
+input[type="submit"]:hover {
+    background-color: #896541;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(91, 110, 84, 0.2);
+}
+
+/* Links */
+a {
+    color: #896541;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #896541;
+    text-decoration: underline;
+}
+
+/* Messages */
+.required {
+color: #d63031;
+font-size: 14px;
+text-align: center;
+padding-bottom: 20px;
+}
+
+.link{
+    display: flex;
+ flex:1;
+    
+}
+
+.register{
+    color: #896541;
+   padding-left: 90px;
+    font-size: 14px;
+}
+
+.password{
+    color: #896541;
+    text-align: left;
+    font-size: 14px;
+}
+
+/* Footer */
+.footer {
+    background-color: none;
+    color: white;
+    text-align: right;
+    padding-right: 100px;
+    font-size: 14px;
+}
+
+
+/* Responsive design */
+@media (max-width: 600px) {
+    article {
+        margin: 1rem;
+        padding: 1.5rem;
+    }
+}
+
+#petownerPassword {
+    width: 100%;
+    padding-right: 40px; /* Make room for the toggle icon */
+}
+
+#nursePassword {
+    width: 100%;
+    padding-right: 40px; /* Make room for the toggle icon */
+}
+
+
+#vetPassword {
+    width: 100%;
+    padding-right: 40px; /* Make room for the toggle icon */
+}
+
+#togglePassword {
+    user-select: none; /* Prevent text selection */
+    position: absolute; 
+    right: 10px; 
+    top: 30%; 
+    font-size:35px; 
+    transform: translateY(-50%); 
+    cursor: pointer;
+}

@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'><text y='28' font-size='24'>🐾</text></svg>"), auto;
+}
+
+body {
+    font-family: Itim, cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: linear-gradient(
+#ffffff49,
+#ffffff49
+), url("../images/3f9735541996437da58e7a80b3a10d3d.jpg");
+background-size: cover;
+background-position: 0 -3cm;
+background-attachment: fixed;
+display: flex;
+flex-direction: column;
+}
+
+
+.logout-container {
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    max-width: 400px;
+    width: 100%;
+}
+.logout-icon {
+    font-size: 64px;
+    color: #4CAF50;
+    margin-bottom: 20px;
+}
+.logout-message {
+    color: #5b6e54;
+    margin-bottom: 1px;
+}
+
+h3{
+    font-size: 16px;
+    color: #5b6e54;
+    margin-bottom: 20px;
+}
+.redirect-message {
+    color: #666;
+    font-size: 14px;
+}
+
+.footer{
+    padding:10px 100px 0 100px;
+    color:#000000;
+}

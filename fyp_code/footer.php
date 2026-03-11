@@ -1,0 +1,1 @@
+© 2024 Veterinary Clinic Management System. All rights reserved.
