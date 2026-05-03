@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=4F5B93" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2C5D87" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=B02E0C" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F4C81" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=C9B200" />
 </p>
 
 <p align="center">
@@ -106,3 +106,45 @@ It demonstrates practical implementation of:
 ---
 
 ## 📂 Project Structure
+
+vet-mgmt-system/
+│
+├── frontend/ # UI components and client-side scripts
+├── backend/ # PHP logic and server-side processing
+├── database/ # Database structure and queries
+├── assets/ # Static resources (CSS, JS, images)
+└── index.php # Entry point
+
+
+---
+
+## 🎯 Learning Outcomes
+
+- 🚀 Built a complete full-stack system independently  
+- 🧩 Applied real-world problem solving in a healthcare domain  
+- ⚙️ Strengthened backend development using PHP  
+- 🗄️ Improved database design and data handling skills  
+- 👥 Gained experience designing multi-role systems  
+
+---
+
+## 📌 Notes
+
+This project is **archived** and will not receive further updates.  
+It is intended for **portfolio showcase and educational reference**.
+
+---
+
+## 👩‍💻 Author
+
+**Pei Yu Hor**  
+
+🔗 GitHub: https://github.com/pyhor  
+🔗 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Provided **as-is** for learning and reference purposes.
