@@ -1,12 +1,12 @@
-## 🐾 Veterinary Management System | Final Year Degree Project (Archived)
+## Veterinary Management System | Final Year Degree Project (Archived)
 
-> ⚠️ Status: **Public Archive (Read-Only)**  
+> Status: **Public Archive (Read-Only)**  
 > This repository contains my **Final Year Degree Project**, developed as a full-stack web application.  
 > It is preserved for **portfolio and educational reference** and is no longer actively maintained.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/pyhor/vet-mgmt-system-2024?style=social" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 🏷️ Project Badges
+### Project Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Archived-red" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project is a **Full-Stack Veterinary Management System** designed to support daily clinic operations by managing **pet records, owner information, and medical workflows**.
 
@@ -56,56 +56,56 @@ It demonstrates practical implementation of:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 🔐 User authentication and login system  
-- 👥 Role-based access control (Pet Owner, Veterinarian, Nurse)  
-- 🐶 Pet record management (Create, Read, Update, Delete)  
-- 🩺 Symptom recording and medical history tracking  
-- 💊 Basic medication recommendation workflow  
-- 🗄️ Structured database integration for clinic data  
+- User authentication and login system  
+- Role-based access control (Pet Owner, Veterinarian, Nurse)  
+- Pet record management (Create, Read, Update, Delete)  
+- Symptom recording and medical history tracking  
+- Basic medication recommendation workflow  
+- Structured database integration for clinic data  
 
 ---
 
-## 👤 User Roles
+## User Roles
 
-### 🧑 Pet Owner
+### Pet Owner
 - View pet records and related information  
 
-### 👨‍⚕️ Veterinarian
+### Veterinarian
 - Record symptoms and diagnoses  
 - Recommend treatments and medications  
 
-### 👩‍⚕️ Nurse
+### Nurse
 - Assist with data entry and patient record updates  
 
 ---
 
-## 👨‍💻 Responsibilities (Full-Stack Developer)
+## Responsibilities (Full-Stack Developer)
 
-- 🧠 Designed system architecture and database structure  
-- 🎨 Developed frontend using HTML, CSS, and JavaScript  
-- ⚙️ Implemented backend logic using PHP  
-- 🔐 Built authentication and role-based access control  
-- 🗄️ Integrated MySQL database for persistent storage  
-- 🧪 Performed testing, debugging, and system validation  
-
----
-
-## 🧠 Technical Skills Demonstrated
-
-- 💻 Full-Stack Web Development  
-- 🐘 PHP Backend Development  
-- 🗄️ MySQL Database Design & Integration  
-- 🔄 CRUD Operations Implementation  
-- 🔐 Authentication & Authorization  
-- 👥 Role-Based Access Control (RBAC)  
-- 📱 Responsive Web Design  
-- 🛠️ Debugging & Problem Solving  
+- Designed system architecture and database structure  
+- Developed frontend using HTML, CSS, and JavaScript  
+- Implemented backend logic using PHP  
+- Built authentication and role-based access control  
+- Integrated MySQL database for persistent storage  
+- Performed testing, debugging, and system validation  
 
 ---
 
-## 📂 Project Structure
+## Technical Skills Demonstrated
+
+- Full-Stack Web Development  
+- PHP Backend Development  
+- MySQL Database Design & Integration  
+- CRUD Operations Implementation  
+- Authentication & Authorization  
+- Role-Based Access Control (RBAC)  
+- Responsive Web Design  
+- Debugging & Problem Solving  
+
+---
+
+## Project Structure
 
 vet-mgmt-system/
 │
@@ -118,33 +118,33 @@ vet-mgmt-system/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
-- 🚀 Built a complete full-stack system independently  
-- 🧩 Applied real-world problem solving in a healthcare domain  
-- ⚙️ Strengthened backend development using PHP  
-- 🗄️ Improved database design and data handling skills  
-- 👥 Gained experience designing multi-role systems  
+- Built a complete full-stack system independently  
+- Applied real-world problem solving in a healthcare domain  
+- Strengthened backend development using PHP  
+- Improved database design and data handling skills  
+- Gained experience designing multi-role systems  
 
 ---
 
-## 📌 Notes
+## Notes
 
 This project is **archived** and will not receive further updates.  
 It is intended for **portfolio showcase and educational reference**.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pei Yu Hor**  
 
-🔗 GitHub: https://github.com/pyhor  
-🔗 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/  
+GitHub: https://github.com/pyhor  
+LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/  
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.  
 Provided **as-is** for learning and reference purposes.
