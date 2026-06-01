@@ -6,16 +6,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/pyhor/vet-mgmt-system-2024?style=social" />
-  <img src="https://img.shields.io/github/forks/pyhor/vet-mgmt-system-2024?style=social" />
-  <img src="https://img.shields.io/github/last-commit/pyhor/vet-mgmt-system-2024" />
-</p>
-
----
-
 ### Project Badges
 
 <p align="center">
